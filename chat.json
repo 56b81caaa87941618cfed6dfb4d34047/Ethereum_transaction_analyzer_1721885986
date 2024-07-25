@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button witht he text hello world",
+        "message_id": "guest25072024054458",
+        "timestamp": "25072024054458",
+        "component_file_name": "purple_header_component_1721885993",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Working on adding a sidebar with navlinks.",
         "message_id": "guest25072024054423",
